@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-//bubble sort
+//merge sort
 void mergeSort(int arr[],int first,int last,int temp[]);
 void mergearray(int a[],int first,int mid,int last,int temp[]);
 void main()

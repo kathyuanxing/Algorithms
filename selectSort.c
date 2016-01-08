@@ -7,7 +7,7 @@ void main()
     for(i=0;i<10;i++)
         scanf("%d",&a[i]);
     selectSort(a,10);
-    printf("排序后的数组：\n");
+    printf("sorted :\n");
     for(i=0;i<10;i++)
         printf(" %d",a[i]);
 }
